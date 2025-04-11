@@ -34,6 +34,8 @@ git add -A      #Add all files
 
 ## Continuing to use Git Notes
 1. ```git add -A```
+1. ```git tag -a <tag_name> -m "message"```
 2. ```git commit -m "message"```
 3. ```git merge <branch_name>```
 3. ```git push origin <branch_name>```
+1. ```git push origin --tags```
