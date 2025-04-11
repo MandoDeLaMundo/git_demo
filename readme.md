@@ -11,6 +11,7 @@ git log
 git remote add origin <url>
 git branch
 git checkout -b <branch_name>
+git merge <branch_name>
 ```
 
 Common Commands
@@ -34,4 +35,5 @@ git add -A      #Add all files
 ## Continuing to use Git Notes
 1. ```git add -A```
 2. ```git commit -m "message"```
+3. ```git merge <branch_name>```
 3. ```git push origin <branch_name>```
