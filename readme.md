@@ -29,7 +29,7 @@ git add -A      #Add all files
 5. Push the changes to the remote repository
     - ```git push origin <branch_name>```
 
-Continuing to use Git Notes
-    - ```git add -A```
-    - ```git commit -m "message"```
-    - ```git push origin <branch_name>```
+## Continuing to use Git Notes
+1. ```git add -A```
+2. ```git commit -m "message"```
+3. ```git push origin <branch_name>```
